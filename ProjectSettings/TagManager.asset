@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Score
+  - Coin
+  - ScoreImg
+  - Death
+  - Scoreboost
+  - Coinboost
+  - Smallboost
+  - ObstacleShield
+  - Bigboost
+  - Magnet
+  - Jitterboost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - UIParticleSystem
+  - RedLine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundImage
+    uniqueID: 2085328395
+    locked: 0
+  - name: Background
+    uniqueID: 1058967253
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2848196399
+    locked: 0
+  - name: UI
+    uniqueID: 794874541
+    locked: 0
